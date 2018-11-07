@@ -1,0 +1,4 @@
+# .gitignore tells git what files are not to be added or committed.
+
+# To ignore file: <file-name>
+# To ignore directory: /<directory-name>
