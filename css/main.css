@@ -1,0 +1,78 @@
+body {
+  width: 1200px;
+  height: 800px;
+  background-color: #e2e2f2;
+  overflow: hidden;
+}
+
+.middle-area {
+  margin-top: 3px;
+}
+
+.map-canvas-element {
+  position: relative;
+  overflow: hidden;
+  float: left;
+}
+
+.no-text-highlight {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+}
+
+.not-visible {
+  display: none
+}
+
+#oil-facility-btn {
+  background-image: url(images/oil.png);
+  background-size: contain;
+}
+
+#coal-facility-btn {
+  background-image: url(images/coal.png);
+  background-size: contain;
+}
+
+#wind-facility-btn {
+  background-image: url(images/wind.png);
+  background-size: contain;
+}
+
+#solar-facility-btn {
+  background-image: url(images/solar.png);
+  background-size: contain;
+}
+
+#nuclear-facility-btn {
+  background-image: url(images/nuclear.png);
+  background-size: contain;
+}
+
+#nuclear-SMR-facility-btn {
+  background-image: url(images/nuclear-SMR.png);
+  background-size: contain;
+}
+
+
+#hydro-facility-btn {
+  background-image: url(images/hydro.png);
+  background-size: contain;
+}
+
+#natural-gas-peaker-facility-btn {
+  background-image: url(images/natural-gas-peaker.png);
+  background-size: contain;
+}
+
+#natural-gas-facility-btn {
+  background-image: url(images/natural-gas.png);
+  background-size: contain;
+}
+
+
+
